@@ -1,0 +1,4 @@
+﻿supplierId,supplierName,reliabilityScore,region
+S-02,Beta Manufacturing,0.94,WEST
+S-01,Alpha Components,0.82,EAST
+S-03,Gamma Parts,0.91,SOUTH

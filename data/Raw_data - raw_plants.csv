@@ -1,0 +1,4 @@
+﻿plantId,plantName,downtimeHours,capacityUtilization
+P-01,Bangalore Plant,18,0.87
+P-03,Chennai Plant,2,0.95
+P-02,Pune Plant,6,0.92
